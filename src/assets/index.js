@@ -20,6 +20,9 @@ import totembo from "./totembo.png";
 import templates from "./templates.png";
 import food from "./food.png";
 import cinephile from "./cinephile.png";
+import prowebstore from "./prowebstore.png";
+import gitfinder from "./gitfinder.png";
+import todolist from "./todolist.png";
 
 export {
   logo,
@@ -43,4 +46,7 @@ export {
   templates,
   food,
   cinephile,
+  prowebstore,
+  gitfinder,
+  todolist,
 };

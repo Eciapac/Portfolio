@@ -16,6 +16,9 @@ import {
   templates,
   food,
   cinephile,
+  prowebstore,
+  gitfinder,
+  todolist,
 } from "../assets";
 
 export const navLinks = [
@@ -286,7 +289,70 @@ const projects = [
       },
     ],
     image: cinephile,
-    source_code_link: "https://eciapac.github.io/Cinephile/",
+    source_code_link: "https://cinephile-phi.vercel.app/",
+  },
+  {
+    name: "Git-Finder",
+    description:
+      "A web app for searching GitHub users. Simply enter a username to quickly view profile details, including repositories, followers, and other stats.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "SCSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: gitfinder,
+    source_code_link: "https://cinephile-phi.vercel.app/",
+  },
+  {
+    name: "ProWeb Web Store",
+    description:
+      "A prototype of an online store with a user-friendly interface. It allows browsing products, adding items to the cart, and managing orders.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "SCSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: prowebstore,
+    source_code_link: "https://pro-web-store.vercel.app/",
+  },
+  {
+    name: "ToDoList",
+    description:
+      "A simple and efficient task manager for organizing daily activities. Users can add, edit, and delete tasks to stay on top of their schedules.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "SCSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: todolist,
+    source_code_link: "https://to-do-list-alpha-sepia.vercel.app/",
   },
 ];
 
