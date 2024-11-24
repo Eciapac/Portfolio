@@ -354,6 +354,27 @@ const projects = [
     image: todolist,
     source_code_link: "https://to-do-list-alpha-sepia.vercel.app/",
   },
+  {
+    name: "Awards Winning",
+    description:
+      "A showcase platform highlighting award-winning achievements. Designed to present projects, accomplishments, or milestones in an elegant and visually appealing manner.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "JavaScript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "SCSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: todolist,
+    source_code_link: "https://to-do-list-alpha-sepia.vercel.app/",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
