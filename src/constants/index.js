@@ -19,6 +19,8 @@ import {
   prowebstore,
   gitfinder,
   todolist,
+  awardswin,
+  
 } from "../assets";
 
 export const navLinks = [
@@ -372,8 +374,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: todolist,
-    source_code_link: "https://to-do-list-alpha-sepia.vercel.app/",
+    image: awardswin,
+    source_code_link: "https://awards-winning.vercel.app/",
   },
 ];
 

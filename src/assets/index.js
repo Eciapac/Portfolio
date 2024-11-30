@@ -23,6 +23,7 @@ import cinephile from "./cinephile.png";
 import prowebstore from "./prowebstore.png";
 import gitfinder from "./gitfinder.png";
 import todolist from "./todolist.png";
+import awardswin from "./awardswin.png";
 
 export {
   logo,
@@ -49,4 +50,5 @@ export {
   prowebstore,
   gitfinder,
   todolist,
+  awardswin,
 };
